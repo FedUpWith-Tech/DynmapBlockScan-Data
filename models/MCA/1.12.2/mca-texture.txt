@@ -1,0 +1,8 @@
+modname:mca
+
+texture:id=txt0001,filename=assets/mca/textures/blocks/rose_gold_block.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/mca/textures/blocks/villager_spawner.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/mca/textures/blocks/rose_gold_ore.png,xcount=1,ycount=1
+block:id=%rose_gold_block,data=0,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,stdrot=true
+block:id=%rose_gold_ore,data=0,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,stdrot=true
+block:id=%villager_spawner,data=0,patch0=0:txt0003,patch1=0:txt0003,patch2=0:txt0003,patch3=0:txt0003,patch4=0:txt0003,patch5=0:txt0003,stdrot=true

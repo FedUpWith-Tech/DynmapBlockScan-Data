@@ -1,0 +1,7 @@
+modname:craftingstation
+
+texture:id=txt0001,filename=assets/minecraft/textures/blocks/planks_oak.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/craftingstation/textures/block/top.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/craftingstation/textures/block/leg.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/craftingstation/textures/block/top_side.png,xcount=1,ycount=1
+block:id=%crafting_station,data=0,patch0=0:txt0001,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,patch6=0:txt0001,patch7=0:txt0002,patch8=0:txt0002,patch9=0:txt0002,patch10=0:txt0002,patch11=0:txt0002,patch12=0:txt0001,patch13=0:txt0002,patch14=0:txt0002,patch15=0:txt0002,patch16=0:txt0002,patch17=0:txt0002,patch18=0:txt0001,patch19=0:txt0002,patch20=0:txt0002,patch21=0:txt0002,patch22=0:txt0002,patch23=0:txt0002,patch24=0:txt0001,patch25=0:txt0003,patch26=0:txt0004,patch27=0:txt0004,patch28=0:txt0004,patch29=0:txt0004,stdrot=true

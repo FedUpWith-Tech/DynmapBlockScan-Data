@@ -1,0 +1,17 @@
+modname:chococraft
+
+texture:id=txt0001,filename=assets/chococraft/textures/blocks/gysahl_green0.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/chococraft/textures/blocks/gysahl_green2.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/chococraft/textures/blocks/gysahl_green1.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/chococraft/textures/blocks/gysahl_green4.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/chococraft/textures/blocks/gysahl_green3.png,xcount=1,ycount=1
+texture:id=txt0007,filename=assets/minecraft/textures/blocks/hardened_clay_stained_white.png,xcount=1,ycount=1
+texture:id=txt0006,filename=assets/chococraft/textures/blocks/straw_nest.png,xcount=1,ycount=1
+block:id=%gysahl_green,data=0,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,stdrot=true
+block:id=%gysahl_green,data=1,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,stdrot=true
+block:id=%gysahl_green,data=2,patch0=0:txt0003,patch1=0:txt0003,patch2=0:txt0003,patch3=0:txt0003,stdrot=true
+block:id=%gysahl_green,data=3,patch0=0:txt0004,patch1=0:txt0004,patch2=0:txt0004,patch3=0:txt0004,stdrot=true
+block:id=%gysahl_green,data=4,patch0=0:txt0005,patch1=0:txt0005,patch2=0:txt0005,patch3=0:txt0005,stdrot=true
+block:id=%straw_nest,data=1,patch0=0:txt0006,patch1=0:txt0006,patch2=0:txt0006,patch3=0:txt0006,patch4=0:txt0006,patch5=0:txt0006,patch6=0:txt0006,patch7=0:txt0006,patch8=0:txt0006,patch9=0:txt0006,patch10=0:txt0006,patch11=0:txt0006,patch12=0:txt0006,patch13=0:txt0006,patch14=0:txt0006,patch15=0:txt0006,patch16=0:txt0006,patch17=0:txt0006,patch18=0:txt0006,patch19=0:txt0006,patch20=0:txt0006,patch21=0:txt0006,patch22=0:txt0006,patch23=0:txt0006,patch24=0:txt0006,patch25=0:txt0006,patch26=0:txt0006,patch27=0:txt0006,patch28=0:txt0006,patch29=0:txt0006,patch30=0:txt0007,patch31=0:txt0007,patch32=0:txt0007,patch33=0:txt0007,patch34=0:txt0007,patch35=0:txt0007,patch36=0:txt0007,patch37=0:txt0007,patch38=0:txt0007,patch39=0:txt0007,patch40=0:txt0007,patch41=0:txt0007,patch42=0:txt0007,patch43=0:txt0007,patch44=0:txt0007,patch45=0:txt0007,patch46=0:txt0007,patch47=0:txt0007,patch48=0:txt0007,patch49=0:txt0007,patch50=0:txt0007,stdrot=true
+block:id=%straw_nest,data=0,patch0=0:txt0006,patch1=0:txt0006,patch2=0:txt0006,patch3=0:txt0006,patch4=0:txt0006,patch5=0:txt0006,patch6=0:txt0006,patch7=0:txt0006,patch8=0:txt0006,patch9=0:txt0006,patch10=0:txt0006,patch11=0:txt0006,patch12=0:txt0006,patch13=0:txt0006,patch14=0:txt0006,patch15=0:txt0006,patch16=0:txt0006,patch17=0:txt0006,patch18=0:txt0006,patch19=0:txt0006,patch20=0:txt0006,patch21=0:txt0006,patch22=0:txt0006,patch23=0:txt0006,patch24=0:txt0006,patch25=0:txt0006,patch26=0:txt0006,patch27=0:txt0006,patch28=0:txt0006,patch29=0:txt0006,stdrot=true
+block:id=%chocobo_egg,data=0,patch0=0:txt0007,patch1=0:txt0007,patch2=0:txt0007,patch3=0:txt0007,patch4=0:txt0007,patch5=0:txt0007,patch6=0:txt0007,patch7=0:txt0007,patch8=0:txt0007,patch9=0:txt0007,patch10=0:txt0007,patch11=0:txt0007,patch12=0:txt0007,patch13=0:txt0007,patch14=0:txt0007,patch15=0:txt0007,patch16=0:txt0007,patch17=0:txt0007,patch18=0:txt0007,patch19=0:txt0007,patch20=0:txt0007,stdrot=true

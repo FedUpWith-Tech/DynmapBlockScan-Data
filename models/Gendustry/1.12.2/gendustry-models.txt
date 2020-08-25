@@ -1,0 +1,12 @@
+modname:gendustry
+
+customblock:id=%mutatron_advanced,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%replicator,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%sampler,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%liquifier,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%mutatron,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%imprinter,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%mutagen_producer,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%extractor,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%industrial_apiary,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%transposer,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer

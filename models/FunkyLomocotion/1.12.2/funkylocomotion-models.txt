@@ -1,0 +1,6 @@
+modname:funkylocomotion
+
+customblock:id=%mass_frame_corner,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.125000:0.125000:0.125000/0.875000:0.875000:0.875000/2:0:1:4:5:3
+customblock:id=%mass_frame_corner,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.125000:0.125000:0.125000/0.875000:0.875000:0.875000/2:0:1:4:5:3
+customblock:id=%mass_frame_corner,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.125000:0.125000:0.125000/0.875000:0.875000:0.875000/2:0:1:4:5:3
+customblock:id=%mass_frame_edge,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.312500:0.312500:0.000000/0.687500:0.687500:1.000000/2:0:1:4:5:3

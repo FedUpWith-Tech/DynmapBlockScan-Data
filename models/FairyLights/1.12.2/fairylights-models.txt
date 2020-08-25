@@ -1,0 +1,8 @@
+modname:fairylights
+
+customblock:id=%fastener,data=4,data=12,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.750000:0.375000:0.375000/1.000000:0.625000:0.625000/2:1:0:4:5:3
+customblock:id=%fastener,data=1,data=9,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.375000:0.000000:0.375000/0.625000:0.250000:0.625000/2:0:1:4:5:3
+customblock:id=%fastener,data=0,data=8,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.375000:0.750000:0.375000/0.625000:1.000000:0.625000/2:1:0:3:5:4
+customblock:id=%fastener,data=5,data=13,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.375000:0.375000/0.250000:0.625000:0.625000/2:1:0:3:5:4
+customblock:id=%fastener,data=3,data=11,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.375000:0.375000:0.000000/0.625000:0.625000:0.250000/2:0:1:4:5:3
+customblock:id=%fastener,data=2,data=10,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.375000:0.375000:0.750000/0.625000:0.625000:1.000000/2:1:0:4:5:3

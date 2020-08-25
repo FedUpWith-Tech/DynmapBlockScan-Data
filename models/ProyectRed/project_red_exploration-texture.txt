@@ -1,0 +1,14 @@
+modname:projectred-exploration
+
+texture:id=txt0020,filename=assets/projectred/textures/blocks/world/basalt.png,xcount=1,ycount=1
+texture:id=txt0021,filename=assets/projectred/textures/blocks/world/basalt_brick.png,xcount=1,ycount=1
+texture:id=txt0022,filename=assets/projectred/textures/blocks/world/basalt_cobble.png,xcount=1,ycount=1
+texture:id=txt0027,filename=assets/projectred/textures/blocks/world/marble.png,xcount=1,ycount=1
+texture:id=txt0028,filename=assets/projectred/textures/blocks/world/marble_brick.png,xcount=1,ycount=1
+block:id=stone,data=3,patch0=0:txt0020,patch1=0:txt0020,patch2=0:txt0020,patch3=0:txt0020,patch4=0:txt0020,patch5=0:txt0020,stdrot=true
+block:id=stone,data=4,patch0=0:txt0021,patch1=0:txt0021,patch2=0:txt0021,patch3=0:txt0021,patch4=0:txt0021,patch5=0:txt0021,stdrot=true
+block:id=stone,data=2,patch0=0:txt0022,patch1=0:txt0022,patch2=0:txt0022,patch3=0:txt0022,patch4=0:txt0022,patch5=0:txt0022,stdrot=true
+block:id=stone,data=0,patch0=0:txt0027,patch1=0:txt0027,patch2=0:txt0027,patch3=0:txt0027,patch4=0:txt0027,patch5=0:txt0027,stdrot=true
+block:id=stone,data=1,patch0=0:txt0028,patch1=0:txt0028,patch2=0:txt0028,patch3=0:txt0028,patch4=0:txt0028,patch5=0:txt0028,stdrot=true
+
+

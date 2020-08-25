@@ -1,0 +1,11 @@
+modname:extrabees
+
+customblock:id=%alveary,data=11,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%alveary,data=12,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%alveary,data=13,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%alveary,data=14,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%alveary,data=15,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%alveary,data=7,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%alveary,data=8,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%alveary,data=9,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%alveary,data=10,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1

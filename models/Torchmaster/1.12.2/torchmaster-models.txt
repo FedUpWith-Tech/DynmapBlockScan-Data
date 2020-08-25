@@ -1,0 +1,11 @@
+modname:torchmaster
+
+customblock:id=%feral_flare_lantern,data=4,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.250000:0.125000:0.250000/0.750000:0.875000:0.750000/2:0:1:4:5:3
+customblock:id=%feral_flare_lantern,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.250000:0.125000:0.250000/0.750000:0.875000:0.750000/2:0:1:4:5:3
+customblock:id=%feral_flare_lantern,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.250000:0.125000:0.250000/0.750000:0.875000:0.750000/2:0:1:4:5:3
+customblock:id=%feral_flare_lantern,data=5,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.250000:0.125000:0.250000/0.750000:0.875000:0.750000/2:0:1:4:5:3
+customblock:id=%feral_flare_lantern,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.250000:0.125000:0.250000/0.750000:0.875000:0.750000/2:0:1:4:5:3
+customblock:id=%feral_flare_lantern,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.250000:0.125000:0.250000/0.750000:0.875000:0.750000/2:0:1:4:5:3
+customblock:id=%mega_torch,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.375000:0.000000:0.375000/0.625000:1.000000:0.625000/2:0:1:4:5:3
+customblock:id=%mega_torch,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.375000:0.000000:0.375000/0.625000:1.000000:0.625000/2:0:1:4:5:3
+customblock:id=%dread_lamp,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.062500:0.000000:0.062500/0.937500:0.062500:0.937500/1:-1:0:3:4:2,cuboid1=0.000000:0.062500:0.000000/1.000000:0.187500:1.000000/7:5:6:9:10:8,cuboid2=0.000000:0.187500:0.000000/0.125000:0.812500:0.125000/-1:-1:11:13:14:12,cuboid3=0.000000:0.187500:0.875000/0.125000:0.812500:1.000000/-1:-1:15:17:18:16,cuboid4=0.875000:0.187500:0.000000/1.000000:0.812500:0.125000/-1:-1:19:21:22:20,cuboid5=0.875000:0.187500:0.875000/1.000000:0.812500:1.000000/-1:-1:23:25:26:24,cuboid6=0.000000:0.812500:0.000000/1.000000:0.937500:1.000000/29:27:28:31:32:30,cuboid7=0.062500:0.937500:0.062500/0.937500:1.000000:0.937500/-1:33:34:36:37:35,cuboid8=0.125000:0.187500:0.125000/0.875000:0.812500:0.875000/-1:-1:38:40:41:39

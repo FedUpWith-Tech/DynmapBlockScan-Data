@@ -1,0 +1,5 @@
+modname:aroma1997sdimension
+
+customblock:id=%miningportal,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.375000/1.000000:1.000000:0.625000/-1:-1:-1:-1:1:0
+customblock:id=%miningportal,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.375000:0.000000/1.000000:0.625000:1.000000/1:0:-1:-1:-1:-1
+customblock:id=%miningportal,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.375000:0.000000:0.000000/0.625000:1.000000:1.000000/-1:-1:0:1:-1:-1

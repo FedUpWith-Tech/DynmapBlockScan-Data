@@ -1,0 +1,9 @@
+modname:fairylights
+
+texture:id=txt0001,filename=assets/fairylights/textures/blocks/fastener.png,xcount=1,ycount=1
+block:id=%fastener,data=4,data=12,patch0=5000:txt0001,patch1=4000:txt0001,patch2=4000:txt0001,patch3=4000:txt0001,patch4=0:txt0001,patch5=6000:txt0001,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%fastener,data=1,data=9,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%fastener,data=0,data=8,patch0=5000:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=5000:txt0001,patch4=5000:txt0001,patch5=5000:txt0001,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%fastener,data=5,data=13,patch0=0:txt0001,patch1=6000:txt0001,patch2=6000:txt0001,patch3=5000:txt0001,patch4=6000:txt0001,patch5=4000:txt0001,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%fastener,data=3,data=11,patch0=5000:txt0001,patch1=6000:txt0001,patch2=0:txt0001,patch3=5000:txt0001,patch4=4000:txt0001,patch5=0:txt0001,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%fastener,data=2,data=10,patch0=4000:txt0001,patch1=0:txt0001,patch2=5000:txt0001,patch3=0:txt0001,patch4=6000:txt0001,patch5=5000:txt0001,transparency=SEMITRANSPARENT,stdrot=true

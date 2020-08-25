@@ -1,3 +1,0 @@
-modname:advanced_solar_panels
-
-customblock:id=%machines,data=0,data=8,class=org.dynmap.hdmap.renderer.CuboidRenderer

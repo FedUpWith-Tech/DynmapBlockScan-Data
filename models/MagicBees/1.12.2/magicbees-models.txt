@@ -1,0 +1,4 @@
+modname:magicbees
+
+customblock:id=%enchanted_earth,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.937500:1.000000/2:0:1:4:5:3
+customblock:id=%effectjar,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer

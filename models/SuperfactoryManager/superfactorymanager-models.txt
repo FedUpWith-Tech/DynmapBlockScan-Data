@@ -1,0 +1,17 @@
+modname:superfactorymanager
+
+customblock:id=%cable_cluster,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=4,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=10,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=12,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=11,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=8,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=5,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=13,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_cluster,data=9,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_camouflage,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_camouflage,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cable_camouflage,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer

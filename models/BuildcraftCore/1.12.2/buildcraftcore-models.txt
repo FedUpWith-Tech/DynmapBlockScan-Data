@@ -1,0 +1,14 @@
+modname:buildcraftcore
+
+customblock:id=%marker_path,data=4,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.437500:0.437500:0.437500/1.000000:0.562500:0.562500/2:1:0:4:5:3
+customblock:id=%marker_path,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.437500:0.437500:0.437500/0.562500:0.562500:1.000000/2:1:0:4:5:3
+customblock:id=%marker_path,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.437500:0.437500:0.000000/0.562500:0.562500:0.562500/2:1:0:3:5:4
+customblock:id=%marker_path,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.437500:0.437500:0.437500/0.562500:1.000000:0.562500/2:1:0:3:5:4
+customblock:id=%marker_path,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.437500:0.000000:0.437500/0.562500:0.562500:0.562500/2:1:0:3:5:4
+customblock:id=%marker_path,data=5,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.437500:0.437500/0.562500:0.562500:0.562500/2:1:0:3:5:4
+customblock:id=%marker_volume,data=4,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.437500:0.437500:0.437500/1.000000:0.562500:0.562500/2:1:0:4:5:3
+customblock:id=%marker_volume,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.437500:0.437500:0.437500/0.562500:0.562500:1.000000/2:1:0:4:5:3
+customblock:id=%marker_volume,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.437500:0.437500:0.000000/0.562500:0.562500:0.562500/2:1:0:3:5:4
+customblock:id=%marker_volume,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.437500:0.437500:0.437500/0.562500:1.000000:0.562500/2:1:0:3:5:4
+customblock:id=%marker_volume,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.437500:0.000000:0.437500/0.562500:0.562500:0.562500/2:1:0:3:5:4
+customblock:id=%marker_volume,data=5,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.437500:0.437500/0.562500:0.562500:0.562500/2:1:0:3:5:4

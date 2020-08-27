@@ -1,0 +1,12 @@
+modname:growthcraft_hops
+
+texture:id=txt0001,filename=assets/growthcraft_hops/textures/blocks/hops_vine_stage0.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/growthcraft/textures/blocks/rope_fence_post.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/growthcraft_hops/textures/blocks/leaves.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/growthcraft/textures/blocks/rope_fence.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/growthcraft/textures/blocks/rope_fence_1.png,xcount=1,ycount=1
+texture:id=txt0006,filename=assets/growthcraft_hops/textures/blocks/leaves_fruits.png,xcount=1,ycount=1
+block:id=%hops,data=1,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0002,patch5=0:txt0002,patch6=0:txt0002,patch7=0:txt0002,patch8=0:txt0002,patch9=0:txt0002,patch10=0:txt0002,patch11=0:txt0002,patch12=0:txt0003,patch13=0:txt0003,patch14=0:txt0003,patch15=0:txt0003,patch16=0:txt0003,patch17=0:txt0003,patch18=5000:txt0004,patch19=0:txt0005,patch20=5000:txt0004,patch21=0:txt0005,patch22=0:txt0003,patch23=0:txt0003,transparency=TRANSPARENT,stdrot=true
+block:id=%hops,data=0,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0003,patch5=0:txt0003,patch6=0:txt0003,patch7=0:txt0003,patch8=0:txt0003,patch9=0:txt0003,patch10=5000:txt0004,patch11=0:txt0005,patch12=5000:txt0004,patch13=0:txt0005,patch14=0:txt0003,patch15=0:txt0003,transparency=TRANSPARENT,stdrot=true
+block:id=%hops,data=3,patch0=0:txt0006,patch1=0:txt0006,patch2=0:txt0006,patch3=0:txt0006,patch4=0:txt0006,patch5=0:txt0006,patch6=0:txt0006,patch7=0:txt0006,patch8=0:txt0003,patch9=0:txt0003,patch10=0:txt0003,patch11=0:txt0003,patch12=0:txt0003,patch13=0:txt0003,patch14=5000:txt0004,patch15=0:txt0005,patch16=5000:txt0004,patch17=0:txt0005,patch18=0:txt0003,patch19=0:txt0003,transparency=TRANSPARENT,stdrot=true
+block:id=%hops,data=2,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,patch6=0:txt0002,patch7=0:txt0002,patch8=0:txt0003,patch9=0:txt0003,patch10=0:txt0003,patch11=0:txt0003,patch12=0:txt0003,patch13=0:txt0003,patch14=5000:txt0004,patch15=0:txt0005,patch16=5000:txt0004,patch17=0:txt0005,patch18=0:txt0003,patch19=0:txt0003,transparency=TRANSPARENT,stdrot=true

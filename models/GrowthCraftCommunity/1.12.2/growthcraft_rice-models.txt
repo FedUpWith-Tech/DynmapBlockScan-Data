@@ -1,0 +1,15 @@
+modname:growthcraft_rice
+
+patch:id=patch0,Ox=0.050000,Oy=0.000000,Oz=0.050000,Ux=0.950000,Uy=0.000000,Uz=0.950000,Vx=0.050000,Vy=1.000000,Vz=0.050000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch1,Ox=0.950000,Oy=0.000000,Oz=0.950000,Ux=0.050000,Uy=0.000000,Uz=0.050000,Vx=0.950000,Vy=1.000000,Vz=0.950000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch2,Ox=0.950000,Oy=0.000000,Oz=0.050000,Ux=0.050000,Uy=0.000000,Uz=0.950000,Vx=0.950000,Vy=1.000000,Vz=0.050000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch3,Ox=0.050000,Oy=0.000000,Oz=0.950000,Ux=0.950000,Uy=0.000000,Uz=0.050000,Vx=0.050000,Vy=1.000000,Vz=0.950000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+customblock:id=%ricepaddy,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.937500:1.000000/2:1:0:3:5:4,cuboid1=0.000000:0.937500:0.000000/1.000000:1.000000:0.062500/8:7:6:9:11:10,cuboid2=0.937500:0.937500:0.000000/1.000000:1.000000:1.000000/14:12:13:16:17:15,cuboid3=0.000000:0.937500:0.937500/1.000000:1.000000:1.000000/20:18:19:21:23:22,cuboid4=0.000000:0.937500:0.000000/0.062500:1.000000:1.000000/26:24:25:28:29:27
+patchblock:id=%ricecrop,data=6,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3
+patchblock:id=%ricecrop,data=7,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3
+patchblock:id=%ricecrop,data=4,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3
+patchblock:id=%ricecrop,data=5,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3
+patchblock:id=%ricecrop,data=2,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3
+patchblock:id=%ricecrop,data=3,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3
+patchblock:id=%ricecrop,data=0,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3
+patchblock:id=%ricecrop,data=1,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3

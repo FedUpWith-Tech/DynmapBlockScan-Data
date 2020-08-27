@@ -1,0 +1,3 @@
+modname:advanced_machines
+
+customblock:id=%machines,data=0,data=8,class=org.dynmap.hdmap.renderer.CuboidRenderer

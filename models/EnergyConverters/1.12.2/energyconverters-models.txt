@@ -1,0 +1,3 @@
+modname:energyconverters
+
+customblock:id=%energy_bridge,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.125000:0.125000:0.125000/0.875000:0.875000:0.875000/2:0:1:4:5:3,cuboid1=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/8:6:7:10:11:9

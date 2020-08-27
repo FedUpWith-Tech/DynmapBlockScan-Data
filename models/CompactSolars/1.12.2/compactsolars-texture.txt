@@ -1,0 +1,14 @@
+modname:compactsolars
+
+texture:id=txt0001,filename=assets/compactsolars/textures/blocks/low_voltage_top.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/compactsolars/textures/blocks/low_voltage_bottom.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/compactsolars/textures/blocks/low_voltage_sides.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/compactsolars/textures/blocks/high_voltage_sides.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/compactsolars/textures/blocks/high_voltage_top.png,xcount=1,ycount=1
+texture:id=txt0007,filename=assets/compactsolars/textures/blocks/medium_voltage_top.png,xcount=1,ycount=1
+texture:id=txt0006,filename=assets/compactsolars/textures/blocks/high_voltage_bottom.png,xcount=1,ycount=1
+texture:id=txt0009,filename=assets/compactsolars/textures/blocks/medium_voltage_bottom.png,xcount=1,ycount=1
+texture:id=txt0008,filename=assets/compactsolars/textures/blocks/medium_voltage_sides.png,xcount=1,ycount=1
+block:id=%compact_solar_block,data=0,patch0=0:txt0002,patch1=0:txt0003,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0001,patch5=0:txt0002,stdrot=true
+block:id=%compact_solar_block,data=2,patch0=0:txt0005,patch1=0:txt0006,patch2=0:txt0005,patch3=0:txt0005,patch4=0:txt0004,patch5=0:txt0005,stdrot=true
+block:id=%compact_solar_block,data=1,patch0=0:txt0008,patch1=0:txt0009,patch2=0:txt0008,patch3=0:txt0008,patch4=0:txt0007,patch5=0:txt0008,stdrot=true

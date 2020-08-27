@@ -1,0 +1,12 @@
+modname:buildcraftrobotics
+
+texture:id=txt0001,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/top.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/default.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/front.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/back.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/left.png,xcount=1,ycount=1
+texture:id=txt0006,filename=assets/buildcraftrobotics/textures/blocks/zone_planner/right.png,xcount=1,ycount=1
+block:id=%zone_planner,data=1,patch0=0:txt0002,patch1=6000:txt0003,patch2=0:txt0006,patch3=0:txt0005,patch4=4000:txt0001,patch5=0:txt0004,stdrot=true
+block:id=%zone_planner,data=3,patch0=0:txt0005,patch1=4000:txt0003,patch2=0:txt0004,patch3=0:txt0002,patch4=6000:txt0001,patch5=0:txt0006,stdrot=true
+block:id=%zone_planner,data=0,patch0=0:txt0006,patch1=5000:txt0003,patch2=0:txt0005,patch3=0:txt0004,patch4=5000:txt0001,patch5=0:txt0002,stdrot=true
+block:id=%zone_planner,data=2,patch0=0:txt0004,patch1=0:txt0003,patch2=0:txt0002,patch3=0:txt0006,patch4=0:txt0001,patch5=0:txt0005,stdrot=true

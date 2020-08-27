@@ -1,0 +1,12 @@
+modname:gendustry
+
+block:id=%mutatron_advanced,data=0,transparency=TRANSPARENT,stdrot=true
+block:id=%replicator,data=0,transparency=TRANSPARENT,stdrot=true
+block:id=%sampler,data=0,transparency=TRANSPARENT,stdrot=true
+block:id=%liquifier,data=0,transparency=TRANSPARENT,stdrot=true
+block:id=%mutatron,data=0,transparency=TRANSPARENT,stdrot=true
+block:id=%imprinter,data=0,transparency=TRANSPARENT,stdrot=true
+block:id=%mutagen_producer,data=0,transparency=TRANSPARENT,stdrot=true
+block:id=%extractor,data=0,transparency=TRANSPARENT,stdrot=true
+block:id=%industrial_apiary,data=0,transparency=TRANSPARENT,stdrot=true
+block:id=%transposer,data=0,transparency=TRANSPARENT,stdrot=true

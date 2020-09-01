@@ -1,0 +1,12 @@
+modname:dynamictreesphc
+
+texture:id=txt0001,filename=assets/minecraft/textures/colormap/foliage.png,xcount=1,ycount=1,format=BIOME
+texture:id=txt0003,filename=assets/minecraft/textures/blocks/leaves_spruce.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/minecraft/textures/blocks/leaves_jungle.png,xcount=1,ycount=1
+block:id=%paperbarkbranch,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,transparency=TRANSPARENT,stdrot=true
+block:id=%maplebranch,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,transparency=TRANSPARENT,stdrot=true
+block:id=%leaves0,data=0,data=1,data=2,data=3,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,blockcolor=txt0001,stdrot=true
+block:id=%leaves0,data=4,data=5,data=6,data=7,patch0=0:txt0003,patch1=0:txt0003,patch2=0:txt0003,patch3=0:txt0003,patch4=0:txt0003,patch5=0:txt0003,blockcolor=txt0001,stdrot=true
+block:id=%leaves0,data=8,data=9,data=10,data=11,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,blockcolor=txt0001,stdrot=true
+block:id=%leaves0,data=12,data=13,data=14,data=15,transparency=TRANSPARENT,stdrot=true
+block:id=%cinnamonbranch,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,transparency=TRANSPARENT,stdrot=true

@@ -1,0 +1,6 @@
+modname:dynamictreesphc
+
+customblock:id=%paperbarkbranch,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%maplebranch,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%leaves0,data=12,data=13,data=14,data=15,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%cinnamonbranch,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,class=org.dynmap.hdmap.renderer.CuboidRenderer

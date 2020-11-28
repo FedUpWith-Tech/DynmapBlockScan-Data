@@ -1,0 +1,5 @@
+modname:craftingstation
+
+customblock:id=%crafting_station_slab,data=0,data=1,data=6,data=7,data=12,data=13,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.500000:0.000000/1.000000:1.000000:1.000000/4:0:3:2:5:1
+customblock:id=%crafting_station_slab,data=2,data=3,data=8,data=9,data=14,data=15,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.500000:1.000000/4:0:3:2:5:1
+customblock:id=%crafting_station,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/0.250000:0.750000:0.250000/5:1:3:2:4:0,cuboid1=0.000000:0.000000:0.750000/0.250000:0.750000:1.000000/11:7:9:8:10:6,cuboid2=0.750000:0.000000:0.000000/1.000000:0.750000:0.250000/17:13:15:14:16:12,cuboid3=0.750000:0.000000:0.750000/1.000000:0.750000:1.000000/23:19:21:20:22:18,cuboid4=0.000000:0.750000:0.000000/1.000000:1.000000:1.000000/29:25:27:26:28:24

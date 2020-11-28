@@ -1,0 +1,15 @@
+modname:floocraftft
+
+texture:id=txt0001,filename=assets/floocraftft/textures/blocks/gf.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/floocraftft/textures/blocks/floowerpottex.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/floocraftft/textures/blocks/flootorch.png,xcount=1,ycount=1
+block:id=%greenflamesidle,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,data=8,data=9,data=10,data=11,data=12,data=13,data=14,data=15,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,patch6=0:txt0001,patch7=0:txt0001,transparency=TRANSPARENT,stdrot=true
+block:id=%flootorch,data=3,patch0=5000:txt0002,patch1=5000:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,transparency=TRANSPARENT,stdrot=true
+block:id=%flootorch,data=0,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,transparency=TRANSPARENT,stdrot=true
+block:id=%flootorch,data=4,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,transparency=TRANSPARENT,stdrot=true
+block:id=%flootorch,data=2,patch0=6000:txt0002,patch1=4000:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,transparency=TRANSPARENT,stdrot=true
+block:id=%flootorch,data=1,patch0=4000:txt0002,patch1=6000:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,transparency=TRANSPARENT,stdrot=true
+block:id=%floosign,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,transparency=TRANSPARENT,stdrot=true
+block:id=%greenflamesbusy,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,data=8,data=9,data=10,data=11,data=12,data=13,data=14,data=15,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,transparency=TRANSPARENT,stdrot=true
+block:id=%floowerpot,data=0,patch0=0:txt0003,patch1=0:txt0003,patch2=0:txt0003,patch3=0:txt0003,patch4=0:txt0003,patch5=0:txt0003,patch6=0:txt0003,patch7=0:txt0003,patch8=0:txt0003,patch9=0:txt0003,patch10=0:txt0003,patch11=0:txt0003,patch12=0:txt0003,patch13=0:txt0003,patch14=0:txt0003,patch15=0:txt0003,patch16=0:txt0003,patch17=0:txt0003,patch18=0:txt0003,patch19=0:txt0003,patch20=0:txt0003,patch21=0:txt0003,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%greenflamestemp,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,data=8,data=9,data=10,data=11,data=12,data=13,data=14,data=15,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,transparency=TRANSPARENT,stdrot=true

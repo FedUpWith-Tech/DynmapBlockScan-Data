@@ -1,0 +1,6 @@
+modname:playerplates
+
+customblock:id=%obsidian_plate,data=0,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.062500:0.000000:0.062500/0.937500:0.031250:0.937500/4:0:3:2:5:1
+customblock:id=%obsidian_plate,data=2,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.062500:0.000000:0.062500/0.937500:0.062500:0.937500/4:0:3:2:5:1
+customblock:id=%mossy_plate,data=0,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.062500:0.000000:0.062500/0.937500:0.031250:0.937500/4:0:3:2:5:1
+customblock:id=%mossy_plate,data=2,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.062500:0.000000:0.062500/0.937500:0.062500:0.937500/4:0:3:2:5:1

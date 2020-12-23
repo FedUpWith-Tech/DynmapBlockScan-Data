@@ -1,0 +1,15 @@
+modname:torchmaster
+
+texture:id=txt0001,filename=assets/minecraft/textures/block/obsidian.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/torchmaster/textures/block/megatorch.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/minecraft/textures/block/glass.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/torchmaster/textures/block/feral_flare_lantern.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/torchmaster/textures/block/megatorch_top.png,xcount=1,ycount=1
+block:id=%dreadlamp,data=0,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,patch6=0:txt0001,patch7=0:txt0001,patch8=0:txt0001,patch9=0:txt0001,patch10=0:txt0001,patch11=0:txt0001,patch12=0:txt0001,patch13=0:txt0001,patch14=0:txt0001,patch15=0:txt0001,patch16=0:txt0001,patch17=0:txt0001,patch18=0:txt0001,patch19=0:txt0001,patch20=0:txt0001,patch21=0:txt0001,patch22=0:txt0001,patch23=0:txt0001,patch24=0:txt0001,patch25=0:txt0001,patch26=0:txt0001,patch27=0:txt0001,patch28=0:txt0001,patch29=0:txt0001,patch30=0:txt0001,patch31=0:txt0001,patch32=0:txt0001,patch33=0:txt0001,patch34=0:txt0001,patch35=0:txt0001,patch36=0:txt0001,patch37=0:txt0001,patch38=0:txt0002,patch39=0:txt0002,patch40=0:txt0002,patch41=0:txt0002,transparency=TRANSPARENT,stdrot=true
+block:id=%megatorch,data=0,patch0=0:txt0003,patch1=0:txt0003,patch2=0:txt0003,patch3=0:txt0004,patch4=0:txt0003,patch5=0:txt0003,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,data=3,patch0=0:txt0005,patch1=0:txt0005,patch2=0:txt0005,patch3=0:txt0005,patch4=0:txt0005,patch5=0:txt0005,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,data=4,patch0=0:txt0005,patch1=0:txt0005,patch2=0:txt0005,patch3=0:txt0005,patch4=0:txt0005,patch5=0:txt0005,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,data=5,patch0=0:txt0005,patch1=0:txt0005,patch2=0:txt0005,patch3=0:txt0005,patch4=0:txt0005,patch5=0:txt0005,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,data=1,patch0=0:txt0005,patch1=0:txt0005,patch2=0:txt0005,patch3=0:txt0005,patch4=0:txt0005,patch5=0:txt0005,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,data=2,patch0=0:txt0005,patch1=0:txt0005,patch2=0:txt0005,patch3=0:txt0005,patch4=0:txt0005,patch5=0:txt0005,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,data=0,patch0=0:txt0005,patch1=0:txt0005,patch2=0:txt0005,patch3=0:txt0005,patch4=0:txt0005,patch5=0:txt0005,transparency=TRANSPARENT,stdrot=true

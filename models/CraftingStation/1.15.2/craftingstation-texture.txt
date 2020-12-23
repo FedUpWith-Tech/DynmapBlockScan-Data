@@ -1,0 +1,11 @@
+modname:craftingstation
+
+texture:id=txt0001,filename=assets/craftingstation/textures/block/top.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/minecraft/textures/block/oak_planks.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/craftingstation/textures/block/slab_side.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/minecraft/textures/4.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/craftingstation/textures/block/side.png,xcount=1,ycount=1
+block:id=%crafting_station_slab,data=0,data=1,data=6,data=7,data=12,data=13,patch0=0:txt0001,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0003,patch5=0:txt0002,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%crafting_station_slab,data=2,data=3,data=8,data=9,data=14,data=15,patch0=0:txt0001,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0003,patch5=0:txt0002,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%crafting_station_slab,data=4,data=5,data=10,data=11,patch0=0:txt0002,patch1=0:txt0003,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0001,patch5=0:txt0002,stdrot=true
+block:id=%crafting_station,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,patch0=0:txt0004,patch1=0:txt0003,patch2=0:txt0004,patch3=0:txt0004,patch4=0:txt0004,patch5=0:txt0003,patch6=0:txt0004,patch7=0:txt0003,patch8=0:txt0004,patch9=0:txt0004,patch10=0:txt0004,patch11=0:txt0003,patch12=0:txt0004,patch13=0:txt0003,patch14=0:txt0004,patch15=0:txt0004,patch16=0:txt0004,patch17=0:txt0003,patch18=0:txt0004,patch19=0:txt0005,patch20=0:txt0004,patch21=0:txt0004,patch22=0:txt0004,patch23=0:txt0003,patch24=0:txt0004,patch25=0:txt0001,patch26=0:txt0004,patch27=0:txt0004,patch28=0:txt0004,patch29=0:txt0003,transparency=TRANSPARENT,stdrot=true

@@ -1,0 +1,14 @@
+modname:xtones
+
+customblock:id=%lamp_flat,data=12,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.812500:0.000000:0.000000/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.812500/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=4,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.812500:0.000000:0.000000/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:0.187500/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=8,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.812500:0.000000/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=9,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.187500:1.000000/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=13,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/0.187500:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=11,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:0.187500/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.812500:0.000000/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=10,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.812500/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=5,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/0.187500:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%lamp_flat,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.187500:1.000000/2:0:5:4:1:3

@@ -1,0 +1,8 @@
+modname:lootbags
+
+texture:id=txt0001,filename=assets/lootbags/textures/blocks/loot_recycler.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/lootbags/textures/blocks/loot_storage.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/lootbags/textures/blocks/loot_opener.png,xcount=1,ycount=1
+block:id=%loot_recycler,data=0,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,stdrot=true
+block:id=%loot_opener,data=0,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,stdrot=true
+block:id=%loot_storage,data=0,patch0=0:txt0003,patch1=0:txt0003,patch2=0:txt0003,patch3=0:txt0003,patch4=0:txt0003,patch5=0:txt0003,stdrot=true

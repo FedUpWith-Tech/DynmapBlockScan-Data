@@ -1,0 +1,8 @@
+modname:rftoolspower
+
+texture:id=txt0001,filename=assets/rftoolspower/textures/blocks/top.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/rftoolspower/textures/blocks/information_screen.png,xcount=1,ycount=1
+block:id=%information_screen,data=2,patch0=4000:txt0001,patch1=6000:txt0001,patch2=4000:txt0001,patch3=4000:txt0001,patch4=0:txt0001,patch5=5000:txt0002,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%information_screen,data=3,patch0=6000:txt0001,patch1=4000:txt0001,patch2=6000:txt0001,patch3=6000:txt0001,patch4=5000:txt0002,patch5=0:txt0001,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%information_screen,data=1,patch0=5000:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=5000:txt0002,patch4=4000:txt0001,patch5=6000:txt0001,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%information_screen,data=0,patch0=0:txt0001,patch1=5000:txt0002,patch2=5000:txt0001,patch3=0:txt0001,patch4=6000:txt0001,patch5=4000:txt0001,transparency=SEMITRANSPARENT,stdrot=true

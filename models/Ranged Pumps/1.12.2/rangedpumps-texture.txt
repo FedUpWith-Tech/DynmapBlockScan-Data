@@ -1,0 +1,6 @@
+modname:rangedpumps
+
+texture:id=txt0001,filename=assets/rangedpumps/textures/blocks/pump_top.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/rangedpumps/textures/blocks/pump_bottom.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/rangedpumps/textures/blocks/pump_side.png,xcount=1,ycount=1
+block:id=%pump,data=0,patch0=0:txt0002,patch1=0:txt0003,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0001,patch5=0:txt0002,stdrot=true

@@ -1,0 +1,5 @@
+modname:danknull
+
+texture:id=txt0001,filename=assets/danknull/textures/blocks/dock/base.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/minecraft/textures/blocks/cauldron_inner.png,xcount=1,ycount=1
+block:id=%danknull_dock,data=0,patch0=0:txt0001,patch1=5000:txt0001,patch2=4000:txt0001,patch3=0:txt0001,patch4=5000:txt0001,patch5=0:txt0001,patch6=0:txt0002,patch7=0:txt0002,patch8=0:txt0002,patch9=0:txt0002,patch10=0:txt0002,patch11=0:txt0002,patch12=0:txt0002,patch13=5000:txt0002,patch14=0:txt0002,patch15=0:txt0002,patch16=0:txt0002,patch17=0:txt0002,patch18=6000:txt0002,patch19=0:txt0002,patch20=0:txt0002,patch21=0:txt0002,patch22=0:txt0002,patch23=5000:txt0002,patch24=0:txt0002,patch25=5000:txt0002,patch26=0:txt0002,patch27=0:txt0002,patch28=0:txt0002,patch29=0:txt0002,patch30=6000:txt0002,patch31=0:txt0002,patch32=4000:txt0002,patch33=0:txt0002,patch34=0:txt0002,patch35=0:txt0002,transparency=SEMITRANSPARENT,stdrot=true

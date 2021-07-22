@@ -1,0 +1,17 @@
+modname:platforms
+
+customblock:id=%platform,data=9,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=6,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=13,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=10,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=11,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=12,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=7,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=4,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=14,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=8,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%platform,data=5,class=org.dynmap.hdmap.renderer.CuboidRenderer

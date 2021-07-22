@@ -1,0 +1,15 @@
+modname:deepresonance
+
+customblock:id=%crystalizer,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%crystalizer,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%crystalizer,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%crystalizer,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%energy_collector,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%lens,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%lens,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%lens,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%lens,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%resonating_crystal,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%resonating_crystal,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%resonating_crystal,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%resonating_crystal,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer

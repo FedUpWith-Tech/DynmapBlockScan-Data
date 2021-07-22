@@ -1,0 +1,8 @@
+modname:careerbees
+
+patch:id=patch0,Ox=0.950000,Oy=0.000000,Oz=0.950000,Ux=0.050000,Uy=0.000000,Uz=0.050000,Vx=0.950000,Vy=1.000000,Vz=0.950000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch1,Ox=0.050000,Oy=0.000000,Oz=0.050000,Ux=0.950000,Uy=0.000000,Uz=0.950000,Vx=0.050000,Vy=1.000000,Vz=0.050000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch2,Ox=0.050000,Oy=0.000000,Oz=0.950000,Ux=0.950000,Uy=0.000000,Uz=0.050000,Vx=0.050000,Vy=1.000000,Vz=0.950000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch3,Ox=0.950000,Oy=0.000000,Oz=0.050000,Ux=0.050000,Uy=0.000000,Uz=0.950000,Vx=0.950000,Vy=1.000000,Vz=0.050000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patchblock:id=%flower_pedastal,data=0,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3
+patchblock:id=%flower_pedastal,data=1,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3

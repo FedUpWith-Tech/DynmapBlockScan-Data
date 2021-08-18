@@ -1,0 +1,11 @@
+modname:xnet
+
+customblock:id=%antenna_dish,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%antenna_dish,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%antenna_dish,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%antenna_dish,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%antenna_base,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%antenna,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%antenna,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%antenna,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%antenna,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer

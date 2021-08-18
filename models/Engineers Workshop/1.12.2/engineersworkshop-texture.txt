@@ -1,0 +1,11 @@
+modname:engineersworkshop
+
+texture:id=txt0001,filename=assets/engineersworkshop/textures/blocks/top.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/engineersworkshop/textures/blocks/bot.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/engineersworkshop/textures/blocks/left.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/engineersworkshop/textures/blocks/back.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/engineersworkshop/textures/blocks/right.png,xcount=1,ycount=1
+block:id=%blocktable,data=4,patch0=0:txt0005,patch1=6000:txt0003,patch2=0:txt0002,patch3=0:txt0005,patch4=4000:txt0001,patch5=0:txt0004,stdrot=true
+block:id=%blocktable,data=5,patch0=0:txt0005,patch1=4000:txt0003,patch2=0:txt0004,patch3=0:txt0005,patch4=6000:txt0001,patch5=0:txt0002,stdrot=true
+block:id=%blocktable,data=3,patch0=0:txt0002,patch1=5000:txt0003,patch2=0:txt0005,patch3=0:txt0004,patch4=5000:txt0001,patch5=0:txt0005,stdrot=true
+block:id=%blocktable,data=2,patch0=0:txt0004,patch1=0:txt0003,patch2=0:txt0005,patch3=0:txt0002,patch4=0:txt0001,patch5=0:txt0005,stdrot=true

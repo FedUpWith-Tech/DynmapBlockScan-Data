@@ -1,0 +1,16 @@
+modname:buildinggadgets
+
+texture:id=txt0001,filename=assets/buildinggadgets/textures/blocks/constructionblock.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/buildinggadgets/textures/blocks/constructionblockpowder.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/buildinggadgets/textures/blocks/constructionblock_dense.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/buildinggadgets/textures/blocks/templatemanager.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/buildinggadgets/textures/blocks/templatemanagertop.png,xcount=1,ycount=1
+texture:id=txt0007,filename=assets/buildinggadgets/textures/blocks/templatemanagerfront.png,xcount=1,ycount=1
+texture:id=txt0006,filename=assets/buildinggadgets/textures/blocks/templatemanagerbottom.png,xcount=1,ycount=1
+block:id=%constructionblock,data=0,data=1,data=2,data=3,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,stdrot=true
+block:id=%constructionblock_dense,data=0,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,stdrot=true
+block:id=%constructionblockpowder,data=0,patch0=0:txt0003,patch1=0:txt0003,patch2=0:txt0003,patch3=0:txt0003,patch4=0:txt0003,patch5=0:txt0003,stdrot=true
+block:id=%templatemanager,data=4,patch0=0:txt0007,patch1=6000:txt0006,patch2=0:txt0005,patch3=0:txt0005,patch4=4000:txt0004,patch5=0:txt0005,stdrot=true
+block:id=%templatemanager,data=5,patch0=0:txt0005,patch1=4000:txt0006,patch2=0:txt0005,patch3=0:txt0007,patch4=6000:txt0004,patch5=0:txt0005,stdrot=true
+block:id=%templatemanager,data=3,patch0=0:txt0005,patch1=5000:txt0006,patch2=0:txt0005,patch3=0:txt0005,patch4=5000:txt0004,patch5=0:txt0007,stdrot=true
+block:id=%templatemanager,data=2,patch0=0:txt0005,patch1=0:txt0006,patch2=0:txt0007,patch3=0:txt0005,patch4=0:txt0004,patch5=0:txt0005,stdrot=true

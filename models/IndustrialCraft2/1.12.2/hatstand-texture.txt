@@ -1,4 +1,0 @@
-modname:hatstand
-
-texture:id=txt0001,filename=assets/minecraft/textures/blocks/planks_oak.png,xcount=1,ycount=1
-block:id=%hatstand,data=0,patch0=4000:txt0001,patch1=0:txt0001,patch2=5000:txt0001,patch3=0:txt0001,patch4=6000:txt0001,patch5=5000:txt0001,transparency=SEMITRANSPARENT,stdrot=true

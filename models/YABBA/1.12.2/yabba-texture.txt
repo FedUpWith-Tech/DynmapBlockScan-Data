@@ -1,0 +1,9 @@
+modname:yabba
+
+texture:id=txt0001,filename=assets/minecraft/textures/blocks/nether_brick.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/minecraft/textures/blocks/quartz_block_chiseled_top.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/minecraft/textures/blocks/obsidian.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/yabba/textures/blocks/item_barrel_connector_frame.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/minecraft/textures/blocks/beacon.png,xcount=1,ycount=1
+block:id=%antibarrel,data=0,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,patch6=0:txt0002,patch7=0:txt0002,patch8=0:txt0002,patch9=0:txt0002,patch10=0:txt0002,patch11=0:txt0002,patch12=0:txt0003,patch13=0:txt0003,patch14=0:txt0003,patch15=0:txt0003,patch16=0:txt0003,patch17=0:txt0003,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%item_barrel_connector,data=0,patch0=0:txt0004,patch1=0:txt0004,patch2=0:txt0004,patch3=0:txt0004,patch4=0:txt0004,patch5=0:txt0004,patch6=0:txt0005,patch7=0:txt0005,patch8=0:txt0005,patch9=0:txt0005,patch10=0:txt0005,patch11=0:txt0005,patch12=0:txt0005,patch13=0:txt0005,patch14=0:txt0005,patch15=0:txt0005,patch16=0:txt0005,patch17=0:txt0005,transparency=SEMITRANSPARENT,stdrot=true

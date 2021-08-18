@@ -1,0 +1,9 @@
+modname:careerbees
+
+texture:id=txt0001,filename=assets/forestry/textures/blocks/apiculture/alveary.bottom.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/careerbees/textures/blocks/plant_frame.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/careerbees/textures/blocks/alveary_frame.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/careerbees/textures/blocks/plant_frame_advanced.png,xcount=1,ycount=1
+block:id=%alveary_frame,data=0,patch0=0:txt0002,patch1=0:txt0001,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0001,patch5=0:txt0002,stdrot=true
+block:id=%flower_pedastal,data=0,patch0=0:txt0003,patch1=0:txt0003,patch2=0:txt0003,patch3=0:txt0003,transparency=TRANSPARENT,stdrot=true
+block:id=%flower_pedastal,data=1,patch0=0:txt0004,patch1=0:txt0004,patch2=0:txt0004,patch3=0:txt0004,transparency=TRANSPARENT,stdrot=true

@@ -1,0 +1,15 @@
+modname:inventorypets
+
+texture:id=txt0001,filename=assets/inventorypets/textures/blocks/cloud.png,xcount=1,ycount=1
+texture:id=txt0003,filename=assets/minecraft/textures/blocks/stonebrick.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/minecraft/textures/blocks/sand.png,xcount=1,ycount=1
+texture:id=txt0005,filename=assets/minecraft/textures/blocks/soul_sand.png,xcount=1,ycount=1
+texture:id=txt0004,filename=assets/minecraft/textures/blocks/glass.png,xcount=1,ycount=1
+block:id=%cloud_spawn,data=0,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,stdrot=true
+block:id=%sand,data=0,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,stdrot=true
+block:id=%cloud,data=0,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,stdrot=true
+block:id=%sand_spawn,data=0,patch0=0:txt0002,patch1=0:txt0002,patch2=0:txt0002,patch3=0:txt0002,patch4=0:txt0002,patch5=0:txt0002,stdrot=true
+block:id=%stone_spawn,data=0,patch0=0:txt0003,patch1=0:txt0003,patch2=0:txt0003,patch3=0:txt0003,patch4=0:txt0003,patch5=0:txt0003,stdrot=true
+block:id=%stone,data=0,patch0=0:txt0003,patch1=0:txt0003,patch2=0:txt0003,patch3=0:txt0003,patch4=0:txt0003,patch5=0:txt0003,stdrot=true
+block:id=%space_spawn,data=0,patch0=0:txt0004,patch1=0:txt0004,patch2=0:txt0004,patch3=0:txt0004,patch4=0:txt0004,patch5=0:txt0004,stdrot=true
+block:id=%nether_spawn,data=0,patch0=0:txt0005,patch1=0:txt0005,patch2=0:txt0005,patch3=0:txt0005,patch4=0:txt0005,patch5=0:txt0005,stdrot=true

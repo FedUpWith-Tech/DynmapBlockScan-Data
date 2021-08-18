@@ -1,0 +1,4 @@
+modname:notenoughwands
+
+texture:id=txt0001,filename=assets/notenoughwands/textures/blocks/empty.png,xcount=1,ycount=1
+block:id=%lightblock,data=0,patch0=0:txt0001,transparency=SEMITRANSPARENT,stdrot=true

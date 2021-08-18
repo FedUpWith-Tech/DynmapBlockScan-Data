@@ -1,0 +1,14 @@
+modname:plethora
+
+customblock:id=%manipulator,data=9,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/0.625000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%manipulator,data=5,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:0.625000/2:0:5:4:1:3
+customblock:id=%manipulator,data=7,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.375000/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%manipulator,data=8,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/0.625000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%manipulator,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.625000:1.000000/2:0:5:4:1:3
+customblock:id=%manipulator,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.375000:0.000000/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%manipulator,data=11,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.375000:0.000000:0.000000/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%manipulator,data=6,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.375000/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%manipulator,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.625000:1.000000/2:0:5:4:1:3
+customblock:id=%manipulator,data=10,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.375000:0.000000:0.000000/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%manipulator,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.375000:0.000000/1.000000:1.000000:1.000000/2:0:5:4:1:3
+customblock:id=%manipulator,data=4,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:0.625000/2:0:5:4:1:3

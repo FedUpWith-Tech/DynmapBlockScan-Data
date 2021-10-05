@@ -1,0 +1,14 @@
+modname:mysticalagradditions
+
+customblock:id=%nether_prosperity_ore,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/0:2:3:1:4:5,cuboid1=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/6:8:9:7:10:11
+customblock:id=%end_prosperity_ore,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/0:2:3:1:4:5,cuboid1=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/6:8:9:7:10:11
+customblock:id=%nether_inferium_ore,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/0:2:3:1:4:5,cuboid1=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/6:8:9:7:10:11
+customblock:id=%end_inferium_ore,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/0:2:3:1:4:5,cuboid1=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/6:8:9:7:10:11
+customblock:id=%insanium_farmland,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.937500:1.000000/0:2:3:1:4:5
+customblock:id=%insanium_farmland,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.937500:1.000000/0:2:3:1:4:5
+customblock:id=%insanium_farmland,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.937500:1.000000/0:2:3:1:4:5
+customblock:id=%insanium_farmland,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.937500:1.000000/0:2:3:1:4:5
+customblock:id=%insanium_farmland,data=7,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.937500:1.000000/0:2:3:1:4:5
+customblock:id=%insanium_farmland,data=6,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.937500:1.000000/0:2:3:1:4:5
+customblock:id=%insanium_farmland,data=5,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.937500:1.000000/0:2:3:1:4:5
+customblock:id=%insanium_farmland,data=4,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:0.937500:1.000000/0:2:3:1:4:5

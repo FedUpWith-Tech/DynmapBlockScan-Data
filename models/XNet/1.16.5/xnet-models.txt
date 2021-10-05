@@ -1,0 +1,15 @@
+modname:xnet
+
+customblock:id=%antenna_base,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%antenna,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%antenna,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%antenna,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%antenna,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%facade,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,data=8,data=9,data=10,data=11,data=12,data=13,data=14,data=15,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%advanced_connector,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,data=8,data=9,data=10,data=11,data=12,data=13,data=14,data=15,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%netcable,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,data=8,data=9,data=10,data=11,data=12,data=13,data=14,data=15,class=org.dynmap.hdmap.renderer.CuboidRenderer
+customblock:id=%antenna_dish,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%antenna_dish,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%antenna_dish,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%antenna_dish,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:1.000000/-1:-1:-1:-1:-1:-1
+customblock:id=%connector,data=0,data=1,data=2,data=3,data=4,data=5,data=6,data=7,data=8,data=9,data=10,data=11,data=12,data=13,data=14,data=15,class=org.dynmap.hdmap.renderer.CuboidRenderer

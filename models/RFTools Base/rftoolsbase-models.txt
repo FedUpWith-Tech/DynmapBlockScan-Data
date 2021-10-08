@@ -1,0 +1,6 @@
+modname:rftoolsbase
+
+customblock:id=%information_screen,data=2,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.937500:0.000000:0.000000/1.000000:1.000000:1.000000/0:2:3:1:4:5
+customblock:id=%information_screen,data=3,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/0.062500:1.000000:1.000000/0:2:3:1:4:5
+customblock:id=%information_screen,data=1,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.000000/1.000000:1.000000:0.062500/0:2:3:1:4:5
+customblock:id=%information_screen,data=0,class=org.dynmap.hdmap.renderer.CuboidRenderer,cuboid0=0.000000:0.000000:0.937500/1.000000:1.000000:1.000000/0:2:3:1:4:5

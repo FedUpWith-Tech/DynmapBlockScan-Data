@@ -1,0 +1,5 @@
+modname:createchunkloading
+
+texture:id=txt0001,filename=assets/minecraft/textures/block/glass.png,xcount=1,ycount=1
+texture:id=txt0002,filename=assets/createchunkloading/textures/block/chunk_loader.png,xcount=1,ycount=1
+block:id=%chunk_loader,data=0,patch0=0:txt0001,patch1=0:txt0001,patch2=0:txt0001,patch3=0:txt0001,patch4=0:txt0001,patch5=0:txt0001,patch6=0:txt0002,patch7=0:txt0002,patch8=0:txt0002,patch9=0:txt0002,patch10=0:txt0002,patch11=0:txt0002,transparency=TRANSPARENT,stdrot=true

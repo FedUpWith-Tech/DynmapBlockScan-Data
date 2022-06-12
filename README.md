@@ -22,7 +22,7 @@ For visual clarity the repo is structured as follows
 
 /models/         # This folder contains the model data for each mod in their respective subfolders
 
-/models/<mod>/   # This is the mod folder which contains both the texture and block definitions files. If there are multiple versions available, they will be in versioned folders. 
+/models/<mod>/<version>/   # This is the mod folder which contains both the texture and block definitions files. If there are multiple versions available, they will be in versioned folders. 
 ```
 
 ### Issues?

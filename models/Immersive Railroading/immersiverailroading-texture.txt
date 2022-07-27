@@ -1,0 +1,6 @@
+modname:immersiverailroading
+
+block:id=%block_rail_preview,data=0,stdrot=true
+block:id=%block_rail_gag,data=0,stdrot=true
+block:id=%block_rail,data=0,stdrot=true
+block:id=%multiblock,data=0,stdrot=true

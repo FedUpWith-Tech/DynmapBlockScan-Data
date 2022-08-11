@@ -1,0 +1,6 @@
+modname:immersiverailroading
+
+patchblock:id=%block_rail_preview,data=0
+patchblock:id=%block_rail_gag,data=0
+patchblock:id=%block_rail,data=0
+patchblock:id=%multiblock,data=0

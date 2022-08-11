@@ -1,0 +1,16 @@
+modname:avaritia
+
+patch:id=patch0,Ox=0.000000,Oy=0.000000,Oz=0.000000,Ux=1.000000,Uy=0.000000,Uz=0.000000,Vx=0.000000,Vy=0.000000,Vz=1.000000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch1,Ox=0.000000,Oy=1.000000,Oz=1.000000,Ux=1.000000,Uy=1.000000,Uz=1.000000,Vx=0.000000,Vy=1.000000,Vz=0.000000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch2,Ox=1.000000,Oy=0.000000,Oz=0.000000,Ux=0.000000,Uy=0.000000,Uz=0.000000,Vx=1.000000,Vy=1.000000,Vz=0.000000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch3,Ox=0.000000,Oy=0.000000,Oz=1.000000,Ux=1.000000,Uy=0.000000,Uz=1.000000,Vx=0.000000,Vy=1.000000,Vz=1.000000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch4,Ox=0.000000,Oy=0.000000,Oz=0.000000,Ux=0.000000,Uy=0.000000,Uz=1.000000,Vx=0.000000,Vy=1.000000,Vz=0.000000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patch:id=patch5,Ox=1.000000,Oy=0.000000,Oz=1.000000,Ux=1.000000,Uy=0.000000,Uz=0.000000,Vx=1.000000,Vy=1.000000,Vz=1.000000,Umin=0.000000,Umax=1.000000,Vmin=0.000000,Vmax=1.000000,VmaxAtUMax=1.000000,VminAtUMax=0.000000,visibility=top
+patchblock:id=%compressed_crafting_table,data=0,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3,patch4=patch4,patch5=patch5
+patchblock:id=%double_compressed_crafting_table,data=0,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3,patch4=patch4,patch5=patch5
+patchblock:id=%extreme_crafting_table,data=0,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3,patch4=patch4,patch5=patch5
+patchblock:id=%block_resource,data=0,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3,patch4=patch4,patch5=patch5
+patchblock:id=%block_resource,data=1,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3,patch4=patch4,patch5=patch5
+patchblock:id=%block_resource,data=2,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3,patch4=patch4,patch5=patch5
+patchblock:id=%neutron_collector,data=0,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3,patch4=patch4,patch5=patch5
+patchblock:id=%neutronium_compressor,data=0,patch0=patch0,patch1=patch1,patch2=patch2,patch3=patch3,patch4=patch4,patch5=patch5

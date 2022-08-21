@@ -1,4 +1,0 @@
-modname:multipiston
-
-texture:id=polished_andesite,filename=assets/minecraft/textures/block/polished_andesite.png,xcount=1,ycount=1
-block:id=%multipistonblock,patch0=0:polished_andesite,transparency=TRANSPARENT,stdrot=true

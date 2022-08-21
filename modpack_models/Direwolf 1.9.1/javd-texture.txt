@@ -1,4 +1,0 @@
-modname:javd
-
-texture:id=portal_block,filename=assets/javd/textures/block/portal_block.png,xcount=1,ycount=1
-block:id=%portal_block,patch0=0:portal_block,patch1=0:portal_block,patch2=0:portal_block,patch3=0:portal_block,patch4=0:portal_block,patch5=0:portal_block,stdrot=true

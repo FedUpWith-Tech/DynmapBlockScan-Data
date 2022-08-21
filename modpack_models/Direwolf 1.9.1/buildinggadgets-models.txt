@@ -1,5 +1,0 @@
-modname:buildinggadgets
-
-modellist:id=%template_manager,state=facing:south,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:w/0:n/3:s/0:e/0:d/2:R/0/180/0
-modellist:id=%template_manager,state=facing:west,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:w/0:n/3:s/0:e/0:d/2:R/0/270/0
-modellist:id=%template_manager,state=facing:east,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:w/0:n/3:s/0:e/0:d/2:R/0/90/0

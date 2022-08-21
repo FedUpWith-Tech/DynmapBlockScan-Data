@@ -1,8 +1,0 @@
-modname:gravestone
-
-texture:id=dirt,filename=assets/minecraft/textures/block/dirt.png,xcount=1,ycount=1
-texture:id=cobblestone,filename=assets/minecraft/textures/block/cobblestone.png,xcount=1,ycount=1
-block:id=%gravestone,state=facing:north,patch0=0:dirt,patch1=0:cobblestone,transparency=SEMITRANSPARENT,stdrot=true
-block:id=%gravestone,state=facing:south,patch0=0:dirt,patch1=0:cobblestone,transparency=SEMITRANSPARENT,stdrot=true
-block:id=%gravestone,state=facing:west,patch0=0:dirt,patch1=0:cobblestone,transparency=SEMITRANSPARENT,stdrot=true
-block:id=%gravestone,state=facing:east,patch0=0:dirt,patch1=0:cobblestone,transparency=SEMITRANSPARENT,stdrot=true

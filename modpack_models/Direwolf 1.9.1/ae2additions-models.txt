@@ -1,6 +1,0 @@
-modname:ae2additions
-
-modellist:id=%1024k_crafting_storage,state=formed:true
-modellist:id=%4096k_crafting_storage,state=formed:true
-modellist:id=%16384k_crafting_storage,state=formed:true
-modellist:id=%65536k_crafting_storage,state=formed:true

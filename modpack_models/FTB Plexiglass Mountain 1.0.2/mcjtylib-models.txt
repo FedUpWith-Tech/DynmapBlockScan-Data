@@ -1,3 +1,0 @@
-modname:mcjtylib
-
-modellist:id=%multipart

@@ -1,8 +1,0 @@
-modname:platforms
-
-modellist:id=%flat
-modellist:id=%floor
-modellist:id=%frame
-modellist:id=%ramp
-modellist:id=%rise
-modellist:id=%rail

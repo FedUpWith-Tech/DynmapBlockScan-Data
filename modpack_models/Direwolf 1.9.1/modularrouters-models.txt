@@ -1,8 +1,0 @@
-modname:modularrouters
-
-modellist:id=%modular_router,state=active:true/facing:south,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:w/0:n/4:s/2:e/0:d/3:R/0/180/0
-modellist:id=%modular_router,state=active:true/facing:west,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:w/0:n/4:s/2:e/0:d/3:R/0/270/0
-modellist:id=%modular_router,state=active:true/facing:east,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:w/0:n/4:s/2:e/0:d/3:R/0/90/0
-modellist:id=%modular_router,state=active:false/facing:south,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:w/0:n/4:s/2:e/0:d/3:R/0/180/0
-modellist:id=%modular_router,state=active:false/facing:west,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:w/0:n/4:s/2:e/0:d/3:R/0/270/0
-modellist:id=%modular_router,state=active:false/facing:east,box=0.000000/0.000000/0.000000:16.000000/16.000000/16.000000:u/1:w/0:n/4:s/2:e/0:d/3:R/0/90/0

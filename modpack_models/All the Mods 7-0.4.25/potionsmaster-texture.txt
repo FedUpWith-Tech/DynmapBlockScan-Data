@@ -1,5 +1,0 @@
-modname:potionsmaster
-
-texture:id=blast_furnace_top,filename=assets/minecraft/textures/block/blast_furnace_top.png,xcount=1,ycount=1
-texture:id=stone,filename=assets/minecraft/textures/block/stone.png,xcount=1,ycount=1
-block:id=%tile_mortar,patch0=0:blast_furnace_top,patch1=0:stone,transparency=TRANSPARENT,stdrot=true

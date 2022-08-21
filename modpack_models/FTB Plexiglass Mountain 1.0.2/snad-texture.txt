@@ -1,8 +1,0 @@
-modname:snad
-
-texture:id=snad,filename=assets/snad/textures/block/snad.png,xcount=1,ycount=1
-texture:id=red_snad,filename=assets/snad/textures/block/red_snad.png,xcount=1,ycount=1
-texture:id=suol_snad,filename=assets/snad/textures/block/suol_snad.png,xcount=1,ycount=1
-block:id=%snad,patch0=0:snad,patch1=0:snad,patch2=0:snad,patch3=0:snad,patch4=0:snad,patch5=0:snad,stdrot=true
-block:id=%red_snad,patch0=0:red_snad,patch1=0:red_snad,patch2=0:red_snad,patch3=0:red_snad,patch4=0:red_snad,patch5=0:red_snad,stdrot=true
-block:id=%suol_snad,patch0=0:suol_snad,patch1=0:suol_snad,patch2=0:suol_snad,patch3=0:suol_snad,patch4=0:suol_snad,patch5=0:suol_snad,stdrot=true

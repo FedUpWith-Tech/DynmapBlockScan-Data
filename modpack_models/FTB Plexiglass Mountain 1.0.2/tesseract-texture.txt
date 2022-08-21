@@ -1,4 +1,0 @@
-modname:tesseract
-
-texture:id=off,filename=assets/tesseract/textures/blocks/off.png,xcount=1,ycount=1
-block:id=%tesseract,patch0=0:off,transparency=SEMITRANSPARENT,stdrot=true

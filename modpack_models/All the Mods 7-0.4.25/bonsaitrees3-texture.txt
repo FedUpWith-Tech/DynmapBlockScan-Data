@@ -1,3 +1,0 @@
-modname:bonsaitrees3
-
-block:id=%bonsaipot,transparency=TRANSPARENT,stdrot=true

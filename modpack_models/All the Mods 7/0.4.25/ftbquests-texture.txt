@@ -1,0 +1,12 @@
+modname:ftbquests
+
+texture:id=barrier_open,filename=assets/ftbquests/textures/block/barrier_open.png,xcount=1,ycount=1
+texture:id=barrier,filename=assets/ftbquests/textures/block/barrier.png,xcount=1,ycount=1
+texture:id=detector_on,filename=assets/ftbquests/textures/block/detector_on.png,xcount=1,ycount=1
+texture:id=detector,filename=assets/ftbquests/textures/block/detector.png,xcount=1,ycount=1
+block:id=%barrier,state=open:true,patch0=0:barrier_open,patch1=0:barrier_open,patch2=0:barrier_open,patch3=0:barrier_open,patch4=0:barrier_open,patch5=0:barrier_open,transparency=TRANSPARENT,stdrot=true
+block:id=%barrier,state=open:false,patch0=0:barrier,patch1=0:barrier,patch2=0:barrier,patch3=0:barrier,patch4=0:barrier,patch5=0:barrier,transparency=TRANSPARENT,stdrot=true
+block:id=%stage_barrier,state=open:true,patch0=0:barrier_open,patch1=0:barrier_open,patch2=0:barrier_open,patch3=0:barrier_open,patch4=0:barrier_open,patch5=0:barrier_open,transparency=TRANSPARENT,stdrot=true
+block:id=%stage_barrier,state=open:false,patch0=0:barrier,patch1=0:barrier,patch2=0:barrier,patch3=0:barrier,patch4=0:barrier,patch5=0:barrier,transparency=TRANSPARENT,stdrot=true
+block:id=%detector,state=powered:true,patch0=0:detector_on,patch1=0:detector_on,patch2=0:detector_on,patch3=0:detector_on,patch4=0:detector_on,patch5=0:detector_on,stdrot=true
+block:id=%detector,state=powered:false,patch0=0:detector,patch1=0:detector,patch2=0:detector,patch3=0:detector,patch4=0:detector,patch5=0:detector,stdrot=true

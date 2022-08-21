@@ -1,0 +1,6 @@
+modname:trashcans
+
+modellist:id=%item_trash_can
+modellist:id=%liquid_trash_can
+modellist:id=%energy_trash_can
+modellist:id=%ultimate_trash_can

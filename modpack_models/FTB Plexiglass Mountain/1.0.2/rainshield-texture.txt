@@ -1,0 +1,9 @@
+modname:rainshield
+
+texture:id=rain_shield,filename=assets/rainshield/textures/block/rain_shield.png,xcount=1,ycount=1
+block:id=%rain_shield,state=facing:north,patch0=0:rain_shield,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%rain_shield,state=facing:east,patch0=0:rain_shield,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%rain_shield,state=facing:south,patch0=0:rain_shield,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%rain_shield,state=facing:west,patch0=0:rain_shield,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%rain_shield,state=facing:up,patch0=0:rain_shield,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%rain_shield,state=facing:down,patch0=0:rain_shield,transparency=SEMITRANSPARENT,stdrot=true

@@ -1,0 +1,8 @@
+modname:gircredstone
+
+texture:id=acceptor_on,filename=assets/gircredstone/textures/blocks/acceptor_on.png,xcount=1,ycount=1
+texture:id=acceptor_off,filename=assets/gircredstone/textures/blocks/acceptor_off.png,xcount=1,ycount=1
+texture:id=emitter,filename=assets/gircredstone/textures/blocks/emitter.png,xcount=1,ycount=1
+block:id=%acceptor,state=power:true,patch0=0:acceptor_on,patch1=0:acceptor_on,patch2=0:acceptor_on,patch3=0:acceptor_on,patch4=0:acceptor_on,patch5=0:acceptor_on,stdrot=true
+block:id=%acceptor,state=power:false,patch0=0:acceptor_off,patch1=0:acceptor_off,patch2=0:acceptor_off,patch3=0:acceptor_off,patch4=0:acceptor_off,patch5=0:acceptor_off,stdrot=true
+block:id=%emitter,patch0=0:emitter,patch1=0:emitter,patch2=0:emitter,patch3=0:emitter,patch4=0:emitter,patch5=0:emitter,stdrot=true

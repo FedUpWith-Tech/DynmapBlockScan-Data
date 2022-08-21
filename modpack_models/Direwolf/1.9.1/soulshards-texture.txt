@@ -1,0 +1,6 @@
+modname:soulshards
+
+texture:id=soul_cage_active,filename=assets/soulshards/textures/block/soul_cage_active.png,xcount=1,ycount=1
+texture:id=soul_cage,filename=assets/soulshards/textures/block/soul_cage.png,xcount=1,ycount=1
+block:id=%soul_cage,state=active:true,patch0=0:soul_cage_active,patch1=0:soul_cage_active,patch2=0:soul_cage_active,patch3=0:soul_cage_active,patch4=0:soul_cage_active,patch5=0:soul_cage_active,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%soul_cage,state=active:false,patch0=0:soul_cage,patch1=0:soul_cage,patch2=0:soul_cage,patch3=0:soul_cage,patch4=0:soul_cage,patch5=0:soul_cage,transparency=SEMITRANSPARENT,stdrot=true

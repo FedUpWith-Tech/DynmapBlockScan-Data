@@ -1,0 +1,4 @@
+modname:jamd
+
+texture:id=mine_portal_block,filename=assets/jamd/textures/block/mine_portal_block.png,xcount=1,ycount=1
+block:id=%mine_portal_block,patch0=0:mine_portal_block,patch1=0:mine_portal_block,patch2=0:mine_portal_block,patch3=0:mine_portal_block,patch4=0:mine_portal_block,patch5=0:mine_portal_block,stdrot=true

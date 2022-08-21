@@ -1,0 +1,8 @@
+modname:wyml
+
+texture:id=paper_bag,filename=assets/wyml/textures/blocks/paper_bag.png,xcount=1,ycount=1
+texture:id=paper_bag_front,filename=assets/wyml/textures/blocks/paper_bag_front.png,xcount=1,ycount=1
+texture:id=diamond_block,filename=assets/minecraft/textures/block/diamond_block.png,xcount=1,ycount=1
+texture:id=gold_block,filename=assets/minecraft/textures/block/gold_block.png,xcount=1,ycount=1
+texture:id=iron_block,filename=assets/minecraft/textures/block/iron_block.png,xcount=1,ycount=1
+block:id=%paper_bag,patch0=0:paper_bag,patch1=0:paper_bag_front,patch2=0:diamond_block,patch3=0:gold_block,patch4=0:iron_block,transparency=TRANSPARENT,stdrot=true

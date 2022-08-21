@@ -1,0 +1,10 @@
+modname:structurize
+
+texture:id=blocksubstitution,filename=assets/structurize/textures/blocks/blocksubstitution.png,xcount=1,ycount=1
+texture:id=blocksolidsubstitution,filename=assets/structurize/textures/blocks/blocksolidsubstitution.png,xcount=1,ycount=1
+texture:id=blockfluidsubstitution,filename=assets/structurize/textures/blocks/blockfluidsubstitution.png,xcount=1,ycount=1
+texture:id=blocktagsubstitution,filename=assets/structurize/textures/blocks/blocktagsubstitution.png,xcount=1,ycount=1
+block:id=%blocksubstitution,patch0=0:blocksubstitution,transparency=TRANSPARENT,stdrot=true
+block:id=%blocksolidsubstitution,patch0=0:blocksolidsubstitution,patch1=0:blocksolidsubstitution,patch2=0:blocksolidsubstitution,patch3=0:blocksolidsubstitution,patch4=0:blocksolidsubstitution,patch5=0:blocksolidsubstitution,stdrot=true
+block:id=%blockfluidsubstitution,patch0=0:blockfluidsubstitution,patch1=0:blockfluidsubstitution,patch2=0:blockfluidsubstitution,patch3=0:blockfluidsubstitution,patch4=0:blockfluidsubstitution,patch5=0:blockfluidsubstitution,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%blocktagsubstitution,patch0=0:blocktagsubstitution,transparency=TRANSPARENT,stdrot=true

@@ -1,0 +1,12 @@
+modname:ae2things
+
+texture:id=side_on,filename=assets/ae2things/textures/block/advanced_inscriber/side_on.png,xcount=1,ycount=1
+texture:id=top,filename=assets/ae2things/textures/block/advanced_inscriber/top.png,xcount=1,ycount=1
+texture:id=side_off,filename=assets/ae2things/textures/block/advanced_inscriber/side_off.png,xcount=1,ycount=1
+texture:id=side_on1,filename=assets/ae2things/textures/block/crystal_growth/side_on.png,xcount=1,ycount=1
+texture:id=top1,filename=assets/ae2things/textures/block/crystal_growth/top.png,xcount=1,ycount=1
+texture:id=side_off1,filename=assets/ae2things/textures/block/crystal_growth/side_off.png,xcount=1,ycount=1
+block:id=%advanced_inscriber,state=smashing:true,patch0=0:side_on,patch1=0:top,patch2=0:side_on,patch3=0:side_on,patch4=0:top,patch5=0:side_on,stdrot=true
+block:id=%advanced_inscriber,state=smashing:false,patch0=0:side_off,patch1=0:top,patch2=0:side_off,patch3=0:side_off,patch4=0:top,patch5=0:side_off,stdrot=true
+block:id=%crystal_growth,state=working:true,patch0=0:side_on1,patch1=0:top1,patch2=0:side_on1,patch3=0:side_on1,patch4=0:top1,patch5=0:side_on1,stdrot=true
+block:id=%crystal_growth,state=working:false,patch0=0:side_off1,patch1=0:top1,patch2=0:side_off1,patch3=0:side_off1,patch4=0:top1,patch5=0:side_off1,stdrot=true

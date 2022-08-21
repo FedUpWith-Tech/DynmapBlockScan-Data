@@ -1,0 +1,16 @@
+modname:totemmod
+
+texture:id=totem_base,filename=assets/totemmod/textures/block/totem_base.png,xcount=1,ycount=1
+texture:id=totem_top,filename=assets/totemmod/textures/block/totem_top.png,xcount=1,ycount=1
+texture:id=wither_skeleton,filename=assets/minecraft/textures/entity/skeleton/wither_skeleton.png,xcount=1,ycount=1
+texture:id=eyes,filename=assets/totemmod/textures/block/eyes.png,xcount=1,ycount=1
+texture:id=invisible,filename=assets/totemmod/textures/block/invisible.png,xcount=1,ycount=1
+block:id=%totem_base,patch0=0:totem_base,transparency=TRANSPARENT,stdrot=true
+block:id=%totem_top,state=facing:north/triggered:true,patch0=0:totem_top,patch1=0:wither_skeleton,patch2=0:eyes,transparency=TRANSPARENT,stdrot=true
+block:id=%totem_top,state=facing:north/triggered:false,patch0=0:totem_top,patch1=0:wither_skeleton,patch2=0:invisible,transparency=TRANSPARENT,stdrot=true
+block:id=%totem_top,state=facing:south/triggered:true,patch0=0:totem_top,patch1=0:wither_skeleton,patch2=0:eyes,transparency=TRANSPARENT,stdrot=true
+block:id=%totem_top,state=facing:south/triggered:false,patch0=0:totem_top,patch1=0:wither_skeleton,patch2=0:invisible,transparency=TRANSPARENT,stdrot=true
+block:id=%totem_top,state=facing:west/triggered:true,patch0=0:totem_top,patch1=0:wither_skeleton,patch2=0:eyes,transparency=TRANSPARENT,stdrot=true
+block:id=%totem_top,state=facing:west/triggered:false,patch0=0:totem_top,patch1=0:wither_skeleton,patch2=0:invisible,transparency=TRANSPARENT,stdrot=true
+block:id=%totem_top,state=facing:east/triggered:true,patch0=0:totem_top,patch1=0:wither_skeleton,patch2=0:eyes,transparency=TRANSPARENT,stdrot=true
+block:id=%totem_top,state=facing:east/triggered:false,patch0=0:totem_top,patch1=0:wither_skeleton,patch2=0:invisible,transparency=TRANSPARENT,stdrot=true

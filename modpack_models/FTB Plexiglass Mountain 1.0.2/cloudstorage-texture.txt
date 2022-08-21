@@ -1,0 +1,12 @@
+modname:cloudstorage
+
+texture:id=cloud,filename=assets/cloudstorage/textures/block/cloud.png,xcount=1,ycount=1
+texture:id=static_cloud,filename=assets/cloudstorage/textures/block/static_cloud.png,xcount=1,ycount=1
+texture:id=static_cloud_overlay,filename=assets/cloudstorage/textures/block/static_cloud_overlay.png,xcount=1,ycount=1
+texture:id=balloon_stand,filename=assets/cloudstorage/textures/block/balloon_stand.png,xcount=1,ycount=1
+block:id=%cloud,patch0=0:cloud,patch1=0:cloud,patch2=0:cloud,patch3=0:cloud,patch4=0:cloud,patch5=0:cloud,transparency=TRANSPARENT,stdrot=true
+block:id=%static_cloud,patch0=0:static_cloud,patch1=0:static_cloud_overlay,transparency=TRANSPARENT,stdrot=true
+block:id=%balloon_stand,state=facing:north,patch0=0:balloon_stand,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%balloon_stand,state=facing:south,patch0=0:balloon_stand,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%balloon_stand,state=facing:west,patch0=0:balloon_stand,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%balloon_stand,state=facing:east,patch0=0:balloon_stand,transparency=SEMITRANSPARENT,stdrot=true

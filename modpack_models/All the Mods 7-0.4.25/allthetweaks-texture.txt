@@ -1,0 +1,8 @@
+modname:allthetweaks
+
+texture:id=ender_pearl_block,filename=assets/allthetweaks/textures/block/ender_pearl_block.png,xcount=1,ycount=1
+texture:id=nether_star_block,filename=assets/allthetweaks/textures/block/nether_star_block.png,xcount=1,ycount=1
+texture:id=atm_star_block,filename=assets/allthetweaks/textures/block/atm_star_block.png,xcount=1,ycount=1
+block:id=%ender_pearl_block,patch0=0:ender_pearl_block,patch1=0:ender_pearl_block,patch2=0:ender_pearl_block,patch3=0:ender_pearl_block,patch4=0:ender_pearl_block,patch5=0:ender_pearl_block,stdrot=true
+block:id=%nether_star_block,patch0=0:nether_star_block,patch1=0:nether_star_block,patch2=0:nether_star_block,patch3=0:nether_star_block,patch4=0:nether_star_block,patch5=0:nether_star_block,stdrot=true
+block:id=%atm_star_block,patch0=0:atm_star_block,patch1=0:atm_star_block,patch2=0:atm_star_block,patch3=0:atm_star_block,patch4=0:atm_star_block,patch5=0:atm_star_block,stdrot=true

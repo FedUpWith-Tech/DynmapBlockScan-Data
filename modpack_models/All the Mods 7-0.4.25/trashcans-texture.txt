@@ -1,0 +1,6 @@
+modname:trashcans
+
+block:id=%item_trash_can,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%liquid_trash_can,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%energy_trash_can,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%ultimate_trash_can,transparency=SEMITRANSPARENT,stdrot=true

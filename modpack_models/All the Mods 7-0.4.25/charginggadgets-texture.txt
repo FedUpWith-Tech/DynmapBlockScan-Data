@@ -1,0 +1,10 @@
+modname:charginggadgets
+
+texture:id=charging_station_top,filename=assets/charginggadgets/textures/blocks/charging_station_top.png,xcount=1,ycount=1
+texture:id=charging_station_side,filename=assets/charginggadgets/textures/blocks/charging_station_side.png,xcount=1,ycount=1
+texture:id=charging_station_bottom,filename=assets/charginggadgets/textures/blocks/charging_station_bottom.png,xcount=1,ycount=1
+texture:id=charging_station_fronton,filename=assets/charginggadgets/textures/blocks/charging_station_fronton.png,xcount=1,ycount=1
+block:id=%charging_station,state=facing:north,patch0=0:charging_station_side,patch1=0:charging_station_bottom,patch2=0:charging_station_fronton,patch3=0:charging_station_side,patch4=0:charging_station_top,patch5=0:charging_station_side,stdrot=true
+block:id=%charging_station,state=facing:south,patch0=0:charging_station_top,patch1=0:charging_station_side,patch2=0:charging_station_bottom,patch3=0:charging_station_fronton,stdrot=true
+block:id=%charging_station,state=facing:west,patch0=0:charging_station_top,patch1=0:charging_station_side,patch2=0:charging_station_bottom,patch3=0:charging_station_fronton,stdrot=true
+block:id=%charging_station,state=facing:east,patch0=0:charging_station_top,patch1=0:charging_station_side,patch2=0:charging_station_bottom,patch3=0:charging_station_fronton,stdrot=true

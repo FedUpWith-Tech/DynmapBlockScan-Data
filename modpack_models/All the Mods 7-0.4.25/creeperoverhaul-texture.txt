@@ -1,0 +1,7 @@
+modname:creeperoverhaul
+
+texture:id=tiny_cactus,filename=assets/creeperoverhaul/textures/block/tiny_cactus.png,xcount=1,ycount=1
+texture:id=flower_pot,filename=assets/minecraft/textures/block/flower_pot.png,xcount=1,ycount=1
+texture:id=dirt,filename=assets/minecraft/textures/block/dirt.png,xcount=1,ycount=1
+block:id=%tiny_cactus,patch0=0:tiny_cactus,transparency=TRANSPARENT,stdrot=true
+block:id=%potted_tiny_cactus,patch0=0:flower_pot,patch1=0:dirt,patch2=0:tiny_cactus,transparency=TRANSPARENT,stdrot=true

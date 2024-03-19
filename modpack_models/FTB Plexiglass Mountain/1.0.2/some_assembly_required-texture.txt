@@ -1,0 +1,6 @@
+modname:some_assembly_required
+
+texture:id=sandwiching_station_side,filename=assets/some_assembly_required/textures/block/sandwiching_station_side.png,xcount=1,ycount=1
+texture:id=sandwiching_station_bottom,filename=assets/some_assembly_required/textures/block/sandwiching_station_bottom.png,xcount=1,ycount=1
+texture:id=sandwiching_station_top,filename=assets/some_assembly_required/textures/block/sandwiching_station_top.png,xcount=1,ycount=1
+block:id=%sandwiching_station,patch0=0:sandwiching_station_side,patch1=0:sandwiching_station_bottom,patch2=0:sandwiching_station_side,patch3=0:sandwiching_station_side,patch4=0:sandwiching_station_top,patch5=0:sandwiching_station_side,stdrot=true

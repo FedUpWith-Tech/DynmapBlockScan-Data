@@ -1,0 +1,16 @@
+modname:glassential
+
+texture:id=dark_ethereal,filename=assets/glassential/textures/block/dark_ethereal.png,xcount=1,ycount=1
+texture:id=dark_ethereal_reverse,filename=assets/glassential/textures/block/dark_ethereal_reverse.png,xcount=1,ycount=1
+texture:id=ethereal,filename=assets/glassential/textures/block/ethereal.png,xcount=1,ycount=1
+texture:id=ethereal_reverse,filename=assets/glassential/textures/block/ethereal_reverse.png,xcount=1,ycount=1
+texture:id=ghostly,filename=assets/glassential/textures/block/ghostly.png,xcount=1,ycount=1
+texture:id=light,filename=assets/glassential/textures/block/light.png,xcount=1,ycount=1
+texture:id=redstone,filename=assets/glassential/textures/block/redstone.png,xcount=1,ycount=1
+block:id=%glass_dark_ethereal,patch0=0:dark_ethereal,patch1=0:dark_ethereal,patch2=0:dark_ethereal,patch3=0:dark_ethereal,patch4=0:dark_ethereal,patch5=0:dark_ethereal,transparency=TRANSPARENT,stdrot=true
+block:id=%glass_dark_ethereal_reverse,patch0=0:dark_ethereal_reverse,patch1=0:dark_ethereal_reverse,patch2=0:dark_ethereal_reverse,patch3=0:dark_ethereal_reverse,patch4=0:dark_ethereal_reverse,patch5=0:dark_ethereal_reverse,transparency=TRANSPARENT,stdrot=true
+block:id=%glass_ethereal,patch0=0:ethereal,patch1=0:ethereal,patch2=0:ethereal,patch3=0:ethereal,patch4=0:ethereal,patch5=0:ethereal,transparency=TRANSPARENT,stdrot=true
+block:id=%glass_ethereal_reverse,patch0=0:ethereal_reverse,patch1=0:ethereal_reverse,patch2=0:ethereal_reverse,patch3=0:ethereal_reverse,patch4=0:ethereal_reverse,patch5=0:ethereal_reverse,transparency=TRANSPARENT,stdrot=true
+block:id=%glass_ghostly,patch0=0:ghostly,patch1=0:ghostly,patch2=0:ghostly,patch3=0:ghostly,patch4=0:ghostly,patch5=0:ghostly,transparency=TRANSPARENT,stdrot=true
+block:id=%glass_light,patch0=0:light,patch1=0:light,patch2=0:light,patch3=0:light,patch4=0:light,patch5=0:light,transparency=TRANSPARENT,stdrot=true
+block:id=%glass_redstone,patch0=0:redstone,patch1=0:redstone,patch2=0:redstone,patch3=0:redstone,patch4=0:redstone,patch5=0:redstone,transparency=TRANSPARENT,stdrot=true

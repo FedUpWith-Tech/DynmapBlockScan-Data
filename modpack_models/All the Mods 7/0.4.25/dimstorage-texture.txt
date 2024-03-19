@@ -1,0 +1,5 @@
+modname:dimstorage
+
+texture:id=dimtank_bottom,filename=assets/dimstorage/textures/blocks/dimtank_bottom.png,xcount=1,ycount=1
+texture:id=dimtank_side,filename=assets/dimstorage/textures/blocks/dimtank_side.png,xcount=1,ycount=1
+block:id=%dimensional_tank,patch0=0:dimtank_bottom,patch1=0:dimtank_side,transparency=SEMITRANSPARENT,stdrot=true

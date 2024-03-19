@@ -1,0 +1,16 @@
+modname:buildinggadgets
+
+texture:id=construction_block,filename=assets/buildinggadgets/textures/blocks/construction_block.png,xcount=1,ycount=1
+texture:id=construction_block_dense,filename=assets/buildinggadgets/textures/blocks/construction_block_dense.png,xcount=1,ycount=1
+texture:id=construction_block_powder,filename=assets/buildinggadgets/textures/blocks/construction_block_powder.png,xcount=1,ycount=1
+texture:id=template_manager_front,filename=assets/buildinggadgets/textures/blocks/template_manager_front.png,xcount=1,ycount=1
+texture:id=template_manager_bottom,filename=assets/buildinggadgets/textures/blocks/template_manager_bottom.png,xcount=1,ycount=1
+texture:id=template_manager_top,filename=assets/buildinggadgets/textures/blocks/template_manager_top.png,xcount=1,ycount=1
+texture:id=template_manager_side,filename=assets/buildinggadgets/textures/blocks/template_manager_side.png,xcount=1,ycount=1
+block:id=%construction_block,patch0=0:construction_block,patch1=0:construction_block,patch2=0:construction_block,patch3=0:construction_block,patch4=0:construction_block,patch5=0:construction_block,stdrot=true
+block:id=%construction_block_dense,patch0=0:construction_block_dense,patch1=0:construction_block_dense,patch2=0:construction_block_dense,patch3=0:construction_block_dense,patch4=0:construction_block_dense,patch5=0:construction_block_dense,stdrot=true
+block:id=%construction_block_powder,patch0=0:construction_block_powder,patch1=0:construction_block_powder,patch2=0:construction_block_powder,patch3=0:construction_block_powder,patch4=0:construction_block_powder,patch5=0:construction_block_powder,stdrot=true
+block:id=%template_manager,state=facing:north,patch0=0:template_manager_side,patch1=0:template_manager_bottom,patch2=0:template_manager_front,patch3=0:template_manager_side,patch4=0:template_manager_top,patch5=0:template_manager_side,stdrot=true
+block:id=%template_manager,state=facing:south,patch0=0:template_manager_front,patch1=0:template_manager_bottom,patch2=0:template_manager_top,patch3=0:template_manager_side,stdrot=true
+block:id=%template_manager,state=facing:west,patch0=0:template_manager_front,patch1=0:template_manager_bottom,patch2=0:template_manager_top,patch3=0:template_manager_side,stdrot=true
+block:id=%template_manager,state=facing:east,patch0=0:template_manager_front,patch1=0:template_manager_bottom,patch2=0:template_manager_top,patch3=0:template_manager_side,stdrot=true

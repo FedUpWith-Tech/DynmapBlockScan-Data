@@ -1,0 +1,7 @@
+modname:culinaryconstruct
+
+texture:id=culinary_station_side,filename=assets/culinaryconstruct/textures/block/culinary_station_side.png,xcount=1,ycount=1
+texture:id=culinary_station_top,filename=assets/culinaryconstruct/textures/block/culinary_station_top.png,xcount=1,ycount=1
+texture:id=culinary_station_front,filename=assets/culinaryconstruct/textures/block/culinary_station_front.png,xcount=1,ycount=1
+texture:id=oak_planks,filename=assets/minecraft/textures/block/oak_planks.png,xcount=1,ycount=1
+block:id=%culinary_station,patch0=0:culinary_station_side,patch1=0:oak_planks,patch2=0:culinary_station_front,patch3=0:culinary_station_side,patch4=0:culinary_station_top,patch5=0:culinary_station_front,stdrot=true

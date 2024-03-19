@@ -1,0 +1,14 @@
+modname:cottonly
+
+texture:id=cotton_stage_0,filename=assets/cottonly/textures/blocks/cotton_stage_0.png,xcount=1,ycount=1
+texture:id=cotton_stage_1,filename=assets/cottonly/textures/blocks/cotton_stage_1.png,xcount=1,ycount=1
+texture:id=cotton_stage_2,filename=assets/cottonly/textures/blocks/cotton_stage_2.png,xcount=1,ycount=1
+texture:id=cotton_stage_3,filename=assets/cottonly/textures/blocks/cotton_stage_3.png,xcount=1,ycount=1
+block:id=%cotton_plant,state=age:0,patch0=0:cotton_stage_0,transparency=TRANSPARENT,stdrot=true
+block:id=%cotton_plant,state=age:1,patch0=0:cotton_stage_0,transparency=TRANSPARENT,stdrot=true
+block:id=%cotton_plant,state=age:2,patch0=0:cotton_stage_1,transparency=TRANSPARENT,stdrot=true
+block:id=%cotton_plant,state=age:3,patch0=0:cotton_stage_1,transparency=TRANSPARENT,stdrot=true
+block:id=%cotton_plant,state=age:4,patch0=0:cotton_stage_2,transparency=TRANSPARENT,stdrot=true
+block:id=%cotton_plant,state=age:5,patch0=0:cotton_stage_2,transparency=TRANSPARENT,stdrot=true
+block:id=%cotton_plant,state=age:6,patch0=0:cotton_stage_2,transparency=TRANSPARENT,stdrot=true
+block:id=%cotton_plant,state=age:7,patch0=0:cotton_stage_3,transparency=TRANSPARENT,stdrot=true

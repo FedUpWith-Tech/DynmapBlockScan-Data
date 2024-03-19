@@ -1,0 +1,15 @@
+modname:torchmaster
+
+texture:id=megatorch,filename=assets/torchmaster/textures/block/megatorch.png,xcount=1,ycount=1
+texture:id=megatorch_top,filename=assets/torchmaster/textures/block/megatorch_top.png,xcount=1,ycount=1
+texture:id=obsidian,filename=assets/minecraft/textures/block/obsidian.png,xcount=1,ycount=1
+texture:id=glass,filename=assets/minecraft/textures/block/glass.png,xcount=1,ycount=1
+texture:id=feral_flare_lantern,filename=assets/torchmaster/textures/block/feral_flare_lantern.png,xcount=1,ycount=1
+block:id=%megatorch,patch0=0:megatorch,patch1=0:megatorch_top,transparency=TRANSPARENT,stdrot=true
+block:id=%dreadlamp,patch0=0:obsidian,patch1=0:glass,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,state=facing:north,patch0=0:feral_flare_lantern,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,state=facing:east,patch0=0:feral_flare_lantern,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,state=facing:south,patch0=0:feral_flare_lantern,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,state=facing:west,patch0=0:feral_flare_lantern,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,state=facing:up,patch0=0:feral_flare_lantern,transparency=TRANSPARENT,stdrot=true
+block:id=%feral_flare_lantern,state=facing:down,patch0=0:feral_flare_lantern,transparency=TRANSPARENT,stdrot=true

@@ -1,0 +1,8 @@
+modname:sfm
+
+texture:id=manager_side,filename=assets/sfm/textures/block/manager_side.png,xcount=1,ycount=1
+texture:id=manager_top,filename=assets/sfm/textures/block/manager_top.png,xcount=1,ycount=1
+texture:id=manager_bot,filename=assets/sfm/textures/block/manager_bot.png,xcount=1,ycount=1
+texture:id=cable,filename=assets/sfm/textures/block/cable.png,xcount=1,ycount=1
+block:id=%manager,patch0=0:manager_side,patch1=0:manager_bot,patch2=0:manager_side,patch3=0:manager_side,patch4=0:manager_top,patch5=0:manager_side,stdrot=true
+block:id=%cable,patch0=0:cable,patch1=0:cable,patch2=0:cable,patch3=0:cable,patch4=0:cable,patch5=0:cable,stdrot=true

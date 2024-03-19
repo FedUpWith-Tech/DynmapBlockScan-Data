@@ -1,0 +1,16 @@
+modname:hostilenetworks
+
+texture:id=machine_base_up,filename=assets/hostilenetworks/textures/block/machine_base_up.png,xcount=1,ycount=1
+texture:id=color_stripes,filename=assets/hostilenetworks/textures/block/color_stripes.png,xcount=1,ycount=1
+texture:id=machine_base,filename=assets/hostilenetworks/textures/block/machine_base.png,xcount=1,ycount=1
+texture:id=simulation_chamber_north,filename=assets/hostilenetworks/textures/block/simulation_chamber_north.png,xcount=1,ycount=1
+texture:id=machine_base_v2,filename=assets/hostilenetworks/textures/block/machine_base_v2.png,xcount=1,ycount=1
+texture:id=loot_fabricator_north,filename=assets/hostilenetworks/textures/block/loot_fabricator_north.png,xcount=1,ycount=1
+block:id=%sim_chamber,state=facing:north,patch0=0:machine_base_up,patch1=0:color_stripes,patch2=0:machine_base,patch3=0:simulation_chamber_north,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%sim_chamber,state=facing:south,patch0=0:machine_base_up,patch1=0:color_stripes,patch2=0:machine_base,patch3=0:simulation_chamber_north,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%sim_chamber,state=facing:west,patch0=0:machine_base_up,patch1=0:color_stripes,patch2=0:machine_base,patch3=0:simulation_chamber_north,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%sim_chamber,state=facing:east,patch0=0:machine_base_up,patch1=0:color_stripes,patch2=0:machine_base,patch3=0:simulation_chamber_north,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%loot_fabricator,state=facing:north,patch0=0:machine_base,patch1=0:color_stripes,patch2=0:machine_base_up,patch3=0:machine_base_v2,patch4=0:loot_fabricator_north,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%loot_fabricator,state=facing:south,patch0=0:machine_base,patch1=0:color_stripes,patch2=0:machine_base_up,patch3=0:machine_base_v2,patch4=0:loot_fabricator_north,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%loot_fabricator,state=facing:west,patch0=0:machine_base,patch1=0:color_stripes,patch2=0:machine_base_up,patch3=0:machine_base_v2,patch4=0:loot_fabricator_north,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%loot_fabricator,state=facing:east,patch0=0:machine_base,patch1=0:color_stripes,patch2=0:machine_base_up,patch3=0:machine_base_v2,patch4=0:loot_fabricator_north,transparency=SEMITRANSPARENT,stdrot=true

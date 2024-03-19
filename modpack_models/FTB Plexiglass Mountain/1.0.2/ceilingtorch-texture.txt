@@ -1,0 +1,17 @@
+modname:ceilingtorch
+
+texture:id=torch,filename=assets/minecraft/textures/block/torch.png,xcount=1,ycount=1
+texture:id=redstone_torch,filename=assets/minecraft/textures/block/redstone_torch.png,xcount=1,ycount=1
+texture:id=redstone_torch_off,filename=assets/minecraft/textures/block/redstone_torch_off.png,xcount=1,ycount=1
+texture:id=soul_torch,filename=assets/minecraft/textures/block/soul_torch.png,xcount=1,ycount=1
+texture:id=megatorch,filename=assets/torchmaster/textures/block/megatorch.png,xcount=1,ycount=1
+texture:id=megatorch_top,filename=assets/torchmaster/textures/block/megatorch_top.png,xcount=1,ycount=1
+texture:id=ether_torch,filename=assets/malum/textures/block/ether_torch.png,xcount=1,ycount=1
+texture:id=ether_torch_overlay,filename=assets/malum/textures/block/ether_torch_overlay.png,xcount=1,ycount=1
+block:id=%torch,patch0=0:torch,transparency=TRANSPARENT,stdrot=true
+block:id=%redstone_torch,state=lit:true,patch0=0:redstone_torch,transparency=TRANSPARENT,stdrot=true
+block:id=%redstone_torch,state=lit:false,patch0=0:redstone_torch_off,transparency=TRANSPARENT,stdrot=true
+block:id=%soul_torch,patch0=0:soul_torch,transparency=TRANSPARENT,stdrot=true
+block:id=%torchmaster_megatorch,patch0=0:megatorch,patch1=0:megatorch_top,transparency=TRANSPARENT,stdrot=true
+block:id=%malum_ether_torch,patch0=0:ether_torch,patch1=1000:ether_torch_overlay,transparency=SEMITRANSPARENT,stdrot=true
+block:id=%malum_iridescent_ether_torch,patch0=0:ether_torch,patch1=1000:ether_torch_overlay,transparency=SEMITRANSPARENT,stdrot=true
